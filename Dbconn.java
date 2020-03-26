@@ -1,10 +1,13 @@
+package DependancyParser;
+
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package SentimentProcess;
 
 
+
+import SentimentProcess.*;
 import java.sql.*;
 import java.sql.DriverManager;
 import java.sql.SQLException;
